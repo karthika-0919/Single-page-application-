@@ -52,5 +52,5 @@ This project demonstrates a **Single Page Application (SPA)** built using **HTML
 * Integrate an API for dynamic data (e.g., user profiles, weather info).
 * Convert to a framework version (React/Vue) for scalability.
 
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/karthika-0919/Single-page-application-.git
 **Live deployment link:**  https://karthika-0919.github.io/Single-page-application-/
