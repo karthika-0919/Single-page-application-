@@ -21,7 +21,7 @@ Since this is a client-side application using only HTML, CSS, and JavaScript, no
 ### 1. Clone the repository
 
 ```bash
-git clone [YOUR_REPOSITORY_URL_HERE]
+git clone https://github.com/karthika-0919/Single-page-application-.git
 cd single-application
 2. Run the application
 Simply open the main file, usually index.html, in your web browser.
